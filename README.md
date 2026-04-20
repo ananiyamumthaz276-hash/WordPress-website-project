@@ -3,11 +3,11 @@
 ### Home Page
 ![Home Page](Home page.png)
 
-### Home page
-![Home page](homepage.png)
+### About page
+![About page](about-page.png)
 
-### About Page
-![About Page](about-page.png)
+### Our collection
+![About Page](our collection.png)
 
 ### Contact Page
 ![Contact Page](contact us.png)
