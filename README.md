@@ -1,13 +1,13 @@
 ## Website Preview
 
 ### Home Page
-![Home Page](Homepage.png)
+![Home Page](homepage.png)
 
-### About page
-![About page](about-page.png)
+### About Page
+![About Page](about-page.png)
 
-### Our collection
-![About Page](our collection.png)
+### Our Collection Page
+![Our Collection](our collection.png)
 
 ### Contact Page
 ![Contact Page](contact us.png)
