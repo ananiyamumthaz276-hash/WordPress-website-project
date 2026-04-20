@@ -6,11 +6,11 @@
 ### About Page
 ![About Page](about-page.png)
 
-### Our Collection Page
-![Our Collection](our collection.png)
+### Collection Page
+![Our Collection](collection-page.png)
 
 ### Contact Page
-![Contact Page](contact us.png)
+![Contact Page](contact-page.png)
 
 # WordPress Website Project
 
