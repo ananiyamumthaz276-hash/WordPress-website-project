@@ -1,3 +1,17 @@
+## Website Preview
+
+### Home Page
+![Home Page](Home page.png)
+
+### Home page
+![Home page](homepage.png)
+
+### About Page
+![About Page](about-page.png)
+
+### Contact Page
+![Contact Page](contact us.png)
+
 # WordPress Website Project
 
 ## Project Overview
