@@ -1,7 +1,7 @@
 ## Website Preview
 
 ### Home Page
-![Home Page](Home page.png)
+![Home Page](Home-page.png)
 
 ### About page
 ![About page](about-page.png)
